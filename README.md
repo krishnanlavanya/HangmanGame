@@ -8,7 +8,10 @@
 
 ## About the project
 
-Hangman is a word game in which one player has to guess a word that the other player (the computer in this case) has thought of, by guessing the letters in it. Every time the player guesses a wrong letter, the rope that's tightening the man will get pulled by a tiny bit, until it gets completely pulled and the man is hanged. The player has to make the right guesses before the rope gets completely pulled to win the game.
+Hangman is a classic word guessing game that has been enjoyed by people of all ages for generations. It's a word puzzle where one player thinks of a word, and the other player tries to guess it by suggesting letters within a certain number of attempts.
+
+Objective
+The primary objective of the Hangman game is to guess the hidden word or phrase correctly before running out of attempts. This game is not only fun but also helps improve vocabulary and word-solving skills.
 
 The game is responsive to different window sizes, built with HTML, CSS3, and vanilla javascript.
 
@@ -55,10 +58,3 @@ After installing live-server, navigate to project directory and simply run:
 
     $ live-server
 
-## License
-
-Distributed under the MIT License. See LICENSE for more information.
-
-## Contact
-
-Email me at: abdou19.tech@gmail.com.
